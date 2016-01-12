@@ -1,0 +1,17 @@
+Caligula Birth: 12, Death: 41, Reign: 3,
+Vespasian Birth: 9, Death: 79, Reign: 9,
+Nero Birth: 37, Death: 68, Reign: 13,
+Titus Birth: 39, Death: 81, Reign: 2,
+Trajan Birth: 53, Death: 117, Reign: 19,
+Marcus_Aurelius Birth: 121, Death: 180, Reign: 19,
+Commodus Birth: 161, Death: 192, Reign: 12,
+Septimius_Severus Birth: 145, Death: 211, Reign: 17,
+Macrinus Birth: 165, Death: 218, Reign: 1,
+Severus_Alexander Birth: 208, Death: 235, Reign: 13,
+Dicletianus Birth: 244, Death: 311, Reign: 20,
+
+-----------------
+Oldest emperor to die Vespasian, Age: 70
+Youngest emperor to die Severus_Alexander, Age: 27
+Emperor to rule longest: Dicletianus, 20 years
+Emperor to spend most lifetime in reign: Severus_Alexander, 13 years in reign. Died at age of 27

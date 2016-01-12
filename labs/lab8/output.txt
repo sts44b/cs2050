@@ -1,0 +1,15 @@
+211 Mason         75
+252 Adam          84
+293 Jacob         62
+293 Bob           62
+301 Mike          98
+306 Noah          97
+316 Nick          67
+332 Aiden         88
+352 Ava           84
+532 Isabella      53
+798 Madison       91
+
+Student with the highest grade is Bob with the id 293 and the grade 62
+Student with the lowest grade is Noah with the id 306 and the grade 97
+Average class grade is 78.57

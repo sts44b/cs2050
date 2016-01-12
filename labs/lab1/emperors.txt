@@ -1,0 +1,12 @@
+11
+Caligula 12 41 3
+Vespasian 9 79 9
+Nero 37 68 13
+Titus 39 81 2
+Trajan 53 117 19
+Marcus_Aurelius 121 180 19
+Commodus 161 192 12
+Septimius_Severus 145 211 17
+Macrinus 165 218 1
+Severus_Alexander 208 235 13
+Dicletianus 244 311 20
